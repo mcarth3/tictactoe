@@ -1,0 +1,43 @@
+.modified-container{
+	background-color:LightGreen;
+    width:800px;
+    margin: 50px auto;
+    padding: 50px;
+	border-radius: 5px;
+
+   
+}
+
+.board{
+    margin: 0px auto;
+    width: 315px;
+	
+}
+.row{
+    margin: 0px;
+	
+}
+.cell{
+    display: inline-block;
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    font-size: 32px;
+	
+}
+.turn{
+    width: 300px;
+    margin: 50px auto 10px auto;
+}
+html { 
+        background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8i8GMJkd5KoDGDUi3lIiiuRHbBdLFSc2xisZ__XSJE_G1l3T') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
